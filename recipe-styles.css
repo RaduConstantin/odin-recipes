@@ -1,0 +1,10 @@
+h1{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 30;
+    font-weight: bolder;
+}
+a{
+    color: red;
+    display: block;
+}
